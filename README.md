@@ -1,2 +1,2 @@
 # BasicAndroid
-Basic Kotlin and Compose
+Basic Kotlin and Compose from AndroidS2
